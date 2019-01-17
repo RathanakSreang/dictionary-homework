@@ -1,0 +1,20 @@
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.DS_Store
+.metadata/
+.recommenders/
+
+*/.settings
+#*/.classpath
+#*/.project
+*/target
+*/.idea
+*/.iml
+*/bin
+/bin/
